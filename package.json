@@ -1,0 +1,16 @@
+{
+  "name": "redux-source-code",
+  "description": "learning of redux source code",
+  "keywords": [
+    "redux",
+    "source-code",
+    "learning"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "symbol-observable": "^1.2.0"
+  }
+}
